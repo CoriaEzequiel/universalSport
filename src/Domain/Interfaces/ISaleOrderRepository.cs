@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Domain.Entities;
+
+namespace Domain.Interfaces
+{
+    public interface ISaleOrderRepository: IBaseRepository<SaleOrder>
+    {
+        List<SaleOrder> GetAllByClient(int clientId);
+            SaleOrder? GetById(int id);
+          
+    }
+}

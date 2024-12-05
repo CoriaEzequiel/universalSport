@@ -93,6 +93,9 @@ catch (ArgumentNullException ex)
 
 builder.Services.AddScoped<IClientService, ClientService>();
 builder.Services.AddScoped<IAdminService, AdminService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ISaleOrderService, SaleOrderService>();
+
 
 builder.Services.Configure<AuthenticateServiceOptions>(
     builder.Configuration.GetSection(AuthenticateServiceOptions.AuthenticateService));
@@ -106,6 +109,9 @@ builder.Services.AddScoped<ICustomAuthenticationService, AuthenticateService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IClientRepository, ClientRepository>();
 builder.Services.AddScoped<IAdminRepository, AdminRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<ISaleOrderRepository, SaleOrderRepository>();
+
 
 #endregion
 
