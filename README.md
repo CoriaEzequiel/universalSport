@@ -17,9 +17,9 @@ Ofrecer una API RESTful para gestionar un eCommerce de productos deportivos, inc
 Swagger habilitado para testing y documentación interactiva
 
 ⚙️Tecnologías:
-.NET
-Entity Framework
-Swagger
+.NET,
+Entity Framework,
+Swagger,
 JWT Authentication.
 
 
