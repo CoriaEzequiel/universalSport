@@ -26,3 +26,5 @@ Sobre el «One-Shot Challenge»:
   y resolver problemas de manera ágil en una única sesión intensiva. 
 
 UniversalSport marcó el inicio de esta dinámica, combinando pasión por el desarrollo con creatividad y ritmo ágil en condiciones desafiantes.
+
+Aptitudes: ASP.NET Web API · ASP.NET · API de Swagger · Entity Framework (EF) Core · C#
