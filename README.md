@@ -1,28 +1,28 @@
-UniversalSport 🛒⚽ – "One Shot Challenge Vol. 1" ⏱️:
+UniversalSport fue el primer reto de mi Serie Personal de desarrollo Back-End en Sesiones Únicas de Programación. 
+ Este proyecto nació como parte de un Desafío del tipo «One-Shot». 
+ Donde me propuse construir un sistema funcional de eCommerce de artículos deportivos desde cero.
+ Y limitado en una única sesión.
 
-UniversalSport fue el primer reto de mi serie personal de desarrollo Back-End en sesiones únicas de programación nocturna. 💻🌙
-Este proyecto nació como parte de un desafío tipo "One Shot", donde me propuse construir un sistema funcional de eCommerce deportivo desde cero en una sola noche, con foco en la lógica de negocio, estructura de base de datos y funcionalidades principales.
+ Con foco en la Lógica de Negocio, en la Estructura de la Base de Datos y en las Funcionalidades Principales. 
 
-Además, utilicé esta experiencia para empezar a aplicar los principios de arquitectura limpia (Clean Architecture), con el objetivo de crear una base sólida, escalable y bien organizada, incluso dentro de un tiempo limitado.
+ Con el Objetivo de Crear una Base Sólida, Escalable y Bien Organizada.
+ Incluso Dentro de un Tiempo Limitado.
 
-🎯 Objetivo principal:
-Ofrecer una API RESTful para gestionar un eCommerce de productos deportivos, incluyendo:
+Asimismo utilicé esta experiencia para aplicar principios de Clean Architecture. 
 
-🛍️ Gestión de productos 
-🧾 Carrito de compras y órdenes de venta
-🔐 Registro y autenticación de usuarios con JWT
-👥 Gestión de roles (Cliente, Admin, Superadmin)
-💳 Simulación de proceso de pago
+Objetivo principal: 
+Ofrecer una API RESTful para gestionar un eCommerce de productos deportivos.
 
-Swagger habilitado para testing y documentación interactiva
+ Incluyendo:
+ Gestión de productos.
+ Carrito de compras y órdenes de venta.
+ Registro y autenticación de usuarios con JWT.
+ Gestión de roles (Cliente, Admin, Superadmin).
+ Procesos de pago.
 
-⚙️Tecnologías:
-.NET,
-Entity Framework,
-Swagger,
-JWT Authentication.
+Sobre el «One-Shot Challenge»:
+ Universal Sport fue la primera entrega de esta serie.
+ Una propuesta personal para practicar bajo presión, mejorar mis habilidades, mis técnicas
+  y resolver problemas de manera ágil en una única sesión intensiva. 
 
-
-Sobre el "One Shot Challenge":
-Esta fue la primera entrega de mi serie "One Shot Challenge", una propuesta personal para practicar bajo presión, mejorar mis habilidades técnicas y resolver problemas de manera ágil en una única sesión intensiva.
-UniversalSport marcó el inicio de esta dinámica, combinando pasión por el desarrollo con creatividad y velocidad. 🧠⚡
+UniversalSport marcó el inicio de esta dinámica, combinando pasión por el desarrollo con creatividad y ritmo ágil en condiciones desafiantes.
